@@ -1,1 +1,1 @@
-# Parallel-Landing-Page
+# Parallax-Landing-Page
